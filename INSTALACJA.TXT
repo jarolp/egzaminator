@@ -1,0 +1,47 @@
+Opis:
+
+>> Folder exam:
+Znajduj¹ siê tutaj pliki egzaminu. Nale¿y je umieœciæ na serwerze lokalnym z dostêpem do bazy danych systemu.
+
+>> Folder prof:
+Znajduj¹ siê tutaj pliki odnosz¹ce siê do systemu od strony u¿ytkownika tworz¹cego egzaminy oraz adnimistratora. Nale¿y je umieœic na serwerze www dziêki czemu u¿ytkownicy mieli do niego dosêp zawsze i wszêdzie.
+
+>> Plik baza_egaminator.sql:
+Plik ten zawiera bazê danych systemu z przyk³adowymi u¿ytkownikami i egzaminami.
+
+
+
+****************************************************************************************
+****************************************************************************************
+INSTALACJA:
+
+>> Baza danych:
+Bazê danych nale¿y utworzyæ importuj¹c dane z pliku baza_egaminator.sql.
+
+!!! Zaleca siê umieszczenie bazy danych na serwerze zewnêtrznym aby zarówno czêœæ prof i exam korzysta³y z jednej bazy danych !!!
+
+>> Czêœæ exam:
+Pliki z folderu exam, nale¿y skopiowaæ do odpowiedniego folderu na serwerze lokalnym i po³¹czyæ z baz¹ danych wpisuj¹c do pliku db.php znajdj¹cego siê w folderze log odpowiednie dane.
+
+
+>> Czêœæ prof:
+Pliki z folderu exam, nale¿y skopiowaæ do odpowiedniego folderu na serwerze www i po³¹czyæ z baz¹ danych wpisuj¹c do pliku db.php znajdj¹cego siê w folderze log odpowiednie dane.
+
+
+>> Po wykonaniu powy¿szych czynnoœci system jest gotowy do u¿ycia.
+
+
+****************************************************************************************
+****************************************************************************************
+PRZYK£ADOWE DANE U¯YTKOWNIKÓW:
+Administrator:
+login: admin
+has³o: 123456
+
+U¿ytkownicy:
+login: pawel    has³o: 123456
+login: kasia    has³o: 123456
+login: wiesiek  has³o: 123456
+login: paulina  has³o: 123456
+
+

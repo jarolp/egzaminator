@@ -1,0 +1,212 @@
+body {
+margin:0px;
+background-color:#BFFFC5;
+}
+
+.egzaminator{
+margin: 0 auto;
+width: 800px;
+height: 200px;
+background-image: url(img/banner1.jpg);
+background-repeat: no-repeat;
+}
+
+.by{
+position:absolute;
+margin: 130px 0px 0px 150px;
+}
+
+.text_wersja{
+padding:0px;
+margin:0px;
+color:#003300;
+font-weight:bold;
+font-family:Tahoma;
+font-size:12px;
+}
+
+.dane_wpr{
+margin:50px auto;
+width:800px;
+text-align:center;
+}
+
+.text_1{
+text-align:right;
+color:#003300;
+font-size:18px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0px;
+font-weight:bold;
+}
+
+.text_2{
+text-align:left;
+color:#FFFF00;
+font-size:18px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0px;
+font-weight:bold;
+
+}
+
+.text_3{
+text-align:left;
+color:#000000;
+font-size:15px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0px;
+font-weight:bold;
+
+}
+
+.text_4{
+text-align:right;
+color:#000000;
+font-size:20px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0 auto;
+font-weight:bold;
+
+}
+
+.text_5{
+text-align:right;
+color:#FFFF00;
+font-size:20px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0px;
+font-weight:bold;
+
+}
+
+
+.blad{
+color:#000000;
+font-size:14px;
+font-family:"Courier New", Courier, monospace;
+margin:0;
+padding:0;
+}
+
+.powrot{
+color:#FFFF00;
+font-size:14px;
+font-family:"Courier New", Courier, monospace;
+margin:0;
+padding:0;
+text-decoration:none;
+font-weight:bold;
+
+}
+
+.fieldset_dane{
+width:700px;
+margin:0 auto;
+border: 1px solid #003300;
+
+}
+ 
+.fieldset_dane1{
+width:700px;
+margin:0 auto;
+border: 1px solid #003300;
+text-align:left;
+} 
+ 
+.legend_dane{
+color:#000000;
+font-family:"Courier New", Courier, monospace;
+font-weight:bold;
+}
+
+.przedmiot{
+color:#000000;
+font-size:18px;
+font-family:"Courier New", Courier, monospace;
+margin:0;
+padding:0;
+font-weight:bold;
+}
+
+.dane{
+width:800px;
+margin: 0 auto;
+text-align:center;
+}
+
+.linia{
+padding:20px 0px 10px 0px;
+}
+
+
+.instrukcja{
+color:#FFFF00;
+font-size:12px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0 auto;
+font-weight:bold;
+display:block;
+background-color:#CC0000;
+width: 600px;
+box-shadow: 0px 0px 5px #CC0000;
+
+}
+
+.instrukcja1{
+color:#FFFF00;
+font-size:12px;
+font-family:"Courier New", Courier, monospace;
+padding:5px;
+margin:0 auto;
+font-weight:bold;
+display:block;
+background-color:#CC0000;
+width: 600px;
+box-shadow: 0px 0px 5px #CC0000;
+text-align:left;
+}
+
+
+
+
+
+
+
+
+
+#head {
+text-align:center;
+color:#00FF00;
+
+}
+
+
+
+
+
+a.text_rejestracja {
+text-align:left;
+padding:0px;
+margin:0px;
+color:#003300;
+font-family:Tahoma;
+font-size:9px;
+text-decoration:none;
+}
+
+a.text_rejestracja:hover .kolor_1{
+text-align:left;
+padding:0px;
+margin:0px;
+color:#000000;
+font-family:Tahoma;
+font-size:9px;
+text-decoration:underline;	 
+}
