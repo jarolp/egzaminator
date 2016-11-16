@@ -1,2 +1,3 @@
 # Program egzaminator w technlogii PHP/MySQL.
-# Wykonany dla potrzeb pracy magisterskiej.
+
+System został stworzony dla potrzeb egzaminowania studentów na studiach. Pozwala on stworzyć egzamin z nieograniczoną liczbą pytań, gdzie dla każdego pytania znajdą się cztery warianty odpowiedzi, a tylko jedna z nich jest poprawna. Używać go może każdy pracownik jakiejkolwiek uczelni. Pliki z części egzaminatora powinny zostać umieszczone na serwerze WWW, dzięki czemu egzaminujący miałby możliwość tworzenia egzaminów z dowolnego miejsca z dostępem do internetu. Natomiast pliki z części przeznaczonej dla zdających egzamin powinny zostać umieszczone na serwerze lokalnym, a egzamin byłby przeprowadzany w sali komputerowej, która ma dostęp do tego serwera. Dzięki temu zdający nie mogliby oszukiwać, szukając odpowiedzi w internecie. Wyniki egzaminów zapisywane są w bazie, a użytkownik  może wyświetlić ich wyniki w każdej chwili ze swojego konta.
